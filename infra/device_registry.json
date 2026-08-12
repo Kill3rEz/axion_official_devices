@@ -47,6 +47,11 @@
       "github_username": "genoxci-dev"
     },
     {
+      "id": "Paul",
+      "name": "Paul",
+      "github_username": "paulblazer15"
+    },
+    {
       "id": "Sreeshankar_K",
       "name": "Sreeshankar K",
       "github_username": "sreeshankark"
@@ -220,9 +225,23 @@
       "id": "Kill3rEz",
       "name": "Kill3rEz",
       "github_username": "Kill3rEz"
+    },
+    {
+      "id": "n0escape_exe",
+      "name": "Viaan",
+      "github_username": "n0escape-exe"
     }
   ],
   "devices": [
+    {
+      "codename": "X01BD",
+      "name": "ASUS ZenFone Max Pro M2",
+      "maintainers": [
+        "Debayan_Kar"
+      ],
+      "support_group": "https://t.me/AxionOS_android_chat",
+      "image_url": "https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-pro-m2-zb631kl-2.jpg"
+    },
     {
       "codename": "oriole",
       "name": "Google Pixel 6",
@@ -379,15 +398,6 @@
       "image_url": "https://wiki.lineageos.org/images/devices/tangorpro.png"
     },
     {
-      "codename": "bangkk",
-      "name": "Moto G84 5G",
-      "maintainers": [
-        "Zediss"
-      ],
-      "support_group": "https://t.me/zedissppchat",
-      "image_url": "https://wiki.lineageos.org/images/devices/bangkk.png"
-    },
-    {
       "codename": "fogos",
       "name": "Motorola G34/45 5G",
       "maintainers": [
@@ -402,8 +412,27 @@
       "maintainers": [
         "Ayan"
       ],
+      "status": "inactive",
       "support_group": "https://t.me/stoopid_ayan",
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g54.jpg"
+    },
+    {
+      "codename": "mumba",
+      "name": "Motorola G57 Power",
+      "maintainers": [
+        "n0escape_exe"
+      ],
+      "support_group": "https://t.me/noescape_aosp",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g57-power-.jpg"
+    },
+    {
+      "codename": "bangkk",
+      "name": "Motorola G84 5G",
+      "maintainers": [
+        "Zediss"
+      ],
+      "support_group": "https://t.me/zedissppchat",
+      "image_url": "https://wiki.lineageos.org/images/devices/bangkk.png"
     },
     {
       "codename": "Tetris",
@@ -497,6 +526,15 @@
       "image_url": "https://wiki.lineageos.org/images/devices/giulia.png"
     },
     {
+      "codename": "macan",
+      "name": "Oneplus 15R",
+      "maintainers": [
+        "Paul"
+      ],
+      "support_group": "https://t.me/AxMacanSupport",
+      "image_url": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-15r-3.jpg"
+    },
+    {
       "codename": "giuliac",
       "name": "Oneplus Ace 5",
       "maintainers": [
@@ -504,6 +542,15 @@
       ],
       "support_group": "https://t.me/+AjwuK7p-rJ44ZmU1",
       "image_url": "https://wiki.lineageos.org/images/devices/giuliac.png"
+    },
+    {
+      "codename": "macanc",
+      "name": "Oneplus Ace 6T",
+      "maintainers": [
+        "Paul"
+      ],
+      "support_group": "https://t.me/AxMacanSupport",
+      "image_url": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-ace-6t-2.jpg"
     },
     {
       "codename": "avicii",
@@ -557,6 +604,7 @@
       "maintainers": [
         "PabloEscobar"
       ],
+      "status": "inactive",
       "support_group": "https://t.me/pablo_laboratory",
       "image_url": "https://i.postimg.cc/3NP59Rrg/1000003700.png"
     },
@@ -605,6 +653,14 @@
       ],
       "support_group": "https://t.me/PocoX3Discussions",
       "image_url": "https://i01.appmifile.com/webfile/globalimg/products/pc/poco-x3-nfc/specs-header.png"
+    },
+    {
+      "codename": "xaga",
+      "name": "POCO X4 GT / Redmi Note 11T Pro (+) / K50i",
+      "maintainers": [
+        "Jefino9488"
+      ],
+      "support_group": "https://t.me/XAGASupport"
     },
     {
       "codename": "redwood",
@@ -725,14 +781,6 @@
       ],
       "support_group": "https://t.me/Al_Arabis_Support",
       "image_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k20pro-5.jpg"
-    },
-    {
-      "codename": "xaga",
-      "name": "Redmi K50i",
-      "maintainers": [
-        "Jefino9488"
-      ],
-      "support_group": "https://t.me/XAGASupport"
     },
     {
       "codename": "lavender",
@@ -860,15 +908,6 @@
       ],
       "support_group": "https://t.me/itel_rs4",
       "image_url": "https://github.com/KimelaZX/official_devices/blob/main/OTA/Banners/devices/S666LN.webp?raw=true"
-    },
-    {
-      "codename": "X01BD",
-      "name": "ASUS ZenFone Max Pro M2",
-      "maintainers": [
-        "Debayan_Kar"
-      ],
-      "support_group": "https://t.me/AxionOS_android_chat",
-      "image_url": "https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-pro-m2-zb631kl-2.jpg"
     }
   ]
 }

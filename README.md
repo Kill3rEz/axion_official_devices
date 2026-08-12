@@ -2,6 +2,7 @@
 
 | Device Name | Codename |
 |-------------|----------|
+| **ASUS ZenFone Max Pro M2** | `X01BD` |
 | **Google Pixel 6** | `oriole` |
 | **Google Pixel 6a** | `bluejay` |
 | **Google Pixel 6 Pro** | `raven` |
@@ -18,9 +19,9 @@
 | **Google Pixel 10 Pro** | `blazer` |
 | **Google Pixel 10 Pro XL** | `mustang` |
 | **Google Pixel Fold** | `felix` |
-| **Moto G84 5G** | `bangkk` |
 | **Motorola G34/45 5G** | `fogos` |
-| **Motorola G54** | `cancunf` |
+| **Motorola G57 Power** | `mumba` |
+| **Motorola G84 5G** | `bangkk` |
 | **Nothing Phone (2)** | `Pong` |
 | **Nothing Phone 2a** | `Pacman` |
 | **Nothing Phone 2a Plus** | `PacmanPro` |
@@ -30,16 +31,18 @@
 | **Oneplus 9R** | `lemonades` |
 | **Oneplus 13** | `dodge` |
 | **Oneplus 13R** | `giulia` |
+| **Oneplus 15R** | `macan` |
 | **Oneplus Ace 5** | `giuliac` |
+| **Oneplus Ace 6T** | `macanc` |
 | **Oneplus Nord** | `avicii` |
 | **Oneplus Nord CE2 Lite 5G** | `oscaro` |
 | **POCO F3/Mi 11X/K40** | `alioth` |
 | **POCO F4/K40S** | `munch` |
-| **POCO F5** | `marble` |
 | **POCO F6** | `peridot` |
 | **POCO F7** | `onyx` |
 | **POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite** | `miatoll` |
 | **POCO X3 / POCO X3 NFC** | `surya` |
+| **POCO X4 GT / Redmi Note 11T Pro (+) / K50i** | `xaga` |
 | **POCO X6 Pro 5G** | `duchamp` |
 | **POCO X7 Pro 5G** | `rodin` |
 | **Realme 5 series** | `r5x` |
@@ -50,7 +53,6 @@
 | **Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+** | `haydn` |
 | **Redmi 9** | `lancelot` |
 | **Redmi K20 Pro / Mi 9T Pro** | `raphael` |
-| **Redmi K50i** | `xaga` |
 | **Redmi Note 7/7s** | `lavender` |
 | **Redmi Note 7 Pro** | `violet` |
 | **Redmi Note 8 Pro** | `begonia` |
@@ -64,26 +66,24 @@
 | **TECNO POVA 4 Pro** | `LG8n` |
 | **TECNO POVA 5** | `LH7n` |
 | **Itel RS4** | `S666LN` |
-| **ASUS ZenFone Max Pro M2** | `X01BD` |
 
 ## 👤 Maintainers
 - **[rmp22](https://github.com/rmp22)** (Google Pixel 6 (`oriole`), Google Pixel 6a (`bluejay`), Google Pixel 6 Pro (`raven`), Google Pixel 7 (`panther`), Google Pixel 7a (`lynx`), Google Pixel 7 Pro (`cheetah`), Google Pixel 8 (`shiba`), Google Pixel 8a (`akita`), Google Pixel 8 Pro (`husky`), Google Pixel Fold (`felix`))
 - **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Google Pixel 10 (`frankel`), Google Pixel 10 Pro (`blazer`), Google Pixel 10 Pro XL (`mustang`))
 - **[Niv](https://github.com/nivlafx)** (Google Pixel 9 (`tokay`), Google Pixel 9 Pro (`caiman`), Google Pixel 9 Pro XL (`komodo`))
 - **[Byben](https://github.com/heybyben)** (Motorola G34/45 5G (`fogos`))
-- **[Ayan](https://github.com/not-ayan)** (Motorola G54 (`cancunf`))
 - **[hiroshi. (Superuser)](https://github.com/joshuah345)** (Nothing Phone (2) (`Pong`))
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 (`instantnoodle`), Oneplus 8 Pro (`instantnoodlep`), Oneplus 8T (`kebab`), Oneplus 9R (`lemonades`))
 - **[Genoxci](https://github.com/genoxci-dev)** (Oneplus 13R (`giulia`), Oneplus Ace 5 (`giuliac`), Samsung Galaxy A52s 5G (`a52sxq`))
+- **[Paul](https://github.com/paulblazer15)** (Oneplus 15R (`macan`), Oneplus Ace 6T (`macanc`))
 - **[Sreeshankar K](https://github.com/sreeshankark)** (Oneplus Nord (`avicii`))
 - **[Chethan](https://github.com/NoCache-69)** (Oneplus Nord CE2 Lite 5G (`oscaro`))
 - **[Yaseakun](https://github.com/skenakun)** (POCO F3/Mi 11X/K40 (`alioth`))
 - **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S (`munch`), POCO X7 Pro 5G (`rodin`))
-- **[PabloEscobar](https://github.com/pabloescobar-reborn)** (POCO F5 (`marble`))
 - **[zenin1504](https://github.com/zenin1504)** (POCO F6 (`peridot`))
 - **[Zarathos_Ghost_Rider](https://github.com/Zarathos30)** (POCO F7 (`onyx`))
 - **[RiteshSahany](https://github.com/RiteshSahany)** (POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite (`miatoll`))
-- **[Debayan Kar](https://github.com/kardebayan)** (POCO X3 / POCO X3 NFC (`surya`), ASUS ZenFone Max Pro M2 (`X01BD`))
+- **[Debayan Kar](https://github.com/kardebayan)** (ASUS ZenFone Max Pro M2 (`X01BD`), POCO X3 / POCO X3 NFC (`surya`))
 - **[Saikrishna](https://github.com/Saikrishna1504)** (POCO X6 Pro 5G (`duchamp`), Redmi Note 8 Pro (`begonia`))
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5 series (`r5x`), Redmi Note 7/7s (`lavender`))
 - **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/7/Narzo Unified (`RM6785`))
@@ -101,9 +101,10 @@
 - **[Ido](https://github.com/xyzuniverse)** (Redmi Note 14 4G (`tanzanite`))
 - **[Shravan](https://github.com/DarkDolphin1)** (Nothing Phone 2a (`Pacman`), Nothing Phone 2a Plus (`PacmanPro`))
 - **[DumbDragon](https://github.com/Badmaneers)** (Realme C25/S/N50A (`even`))
-- **[Zediss](https://github.com/zedisspp)** (Moto G84 5G (`bangkk`))
-- **[Jefino](https://github.com/Jefino9488)** (Redmi K50i (`xaga`))
+- **[Zediss](https://github.com/zedisspp)** (Motorola G84 5G (`bangkk`))
+- **[Jefino](https://github.com/Jefino9488)** (POCO X4 GT / Redmi Note 11T Pro (+) / K50i (`xaga`))
 - **[Kill3rEz](https://github.com/Kill3rEz)** (Oneplus 13 (`dodge`))
+- **[Viaan](https://github.com/n0escape-exe)** (Motorola G57 Power (`mumba`))
 
 ## 🛠 Maintainer and device registry
 

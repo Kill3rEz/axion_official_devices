@@ -93,6 +93,15 @@
       ]
     },
     {
+      "id": "Paul",
+      "name": "Paul",
+      "github_username": "paulblazer15",
+      "devices": [
+        "macan",
+        "macanc"
+      ]
+    },
+    {
       "id": "Sreeshankar_K",
       "name": "Sreeshankar K",
       "github_username": "sreeshankark",
@@ -178,8 +187,8 @@
       "name": "Debayan Kar",
       "github_username": "kardebayan",
       "devices": [
-        "surya",
-        "X01BD"
+        "X01BD",
+        "surya"
       ]
     },
     {
@@ -378,6 +387,14 @@
       "github_username": "Kill3rEz",
       "devices": [
         "dodge"
+      ]
+    },
+    {
+      "id": "n0escape_exe",
+      "name": "Viaan",
+      "github_username": "n0escape-exe",
+      "devices": [
+        "mumba"
       ]
     }
   ]

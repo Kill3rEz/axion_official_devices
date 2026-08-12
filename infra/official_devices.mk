@@ -1,4 +1,5 @@
 AXION_OFFICIAL_DEVICES := \
+    X01BD \
     oriole \
     bluejay \
     raven \
@@ -15,9 +16,9 @@ AXION_OFFICIAL_DEVICES := \
     blazer \
     mustang \
     felix \
-    bangkk \
     fogos \
-    cancunf \
+    mumba \
+    bangkk \
     Pong \
     Pacman \
     PacmanPro \
@@ -27,16 +28,18 @@ AXION_OFFICIAL_DEVICES := \
     lemonades \
     dodge \
     giulia \
+    macan \
     giuliac \
+    macanc \
     avicii \
     oscaro \
     alioth \
     munch \
-    marble \
     peridot \
     onyx \
     miatoll \
     surya \
+    xaga \
     duchamp \
     rodin \
     r5x \
@@ -47,7 +50,6 @@ AXION_OFFICIAL_DEVICES := \
     haydn \
     lancelot \
     raphael \
-    xaga \
     lavender \
     violet \
     begonia \
@@ -60,9 +62,9 @@ AXION_OFFICIAL_DEVICES := \
     a52sxq \
     LG8n \
     LH7n \
-    S666LN \
-    X01BD
+    S666LN
 
+AXION_OFFICIAL_MAINTAINERS_X01BD := Debayan_Kar
 AXION_OFFICIAL_MAINTAINERS_oriole := rmp
 AXION_OFFICIAL_MAINTAINERS_bluejay := rmp
 AXION_OFFICIAL_MAINTAINERS_raven := rmp
@@ -79,9 +81,9 @@ AXION_OFFICIAL_MAINTAINERS_frankel := EliteDarkKaiser
 AXION_OFFICIAL_MAINTAINERS_blazer := EliteDarkKaiser
 AXION_OFFICIAL_MAINTAINERS_mustang := EliteDarkKaiser
 AXION_OFFICIAL_MAINTAINERS_felix := rmp
-AXION_OFFICIAL_MAINTAINERS_bangkk := Zediss
 AXION_OFFICIAL_MAINTAINERS_fogos := Byben
-AXION_OFFICIAL_MAINTAINERS_cancunf := Ayan
+AXION_OFFICIAL_MAINTAINERS_mumba := n0escape_exe
+AXION_OFFICIAL_MAINTAINERS_bangkk := Zediss
 AXION_OFFICIAL_MAINTAINERS_Pong := hiroshi._(Superuser)
 AXION_OFFICIAL_MAINTAINERS_Pacman := Shravan
 AXION_OFFICIAL_MAINTAINERS_PacmanPro := Shravan
@@ -91,16 +93,18 @@ AXION_OFFICIAL_MAINTAINERS_kebab := Itachi
 AXION_OFFICIAL_MAINTAINERS_lemonades := Itachi
 AXION_OFFICIAL_MAINTAINERS_dodge := Kill3rEz
 AXION_OFFICIAL_MAINTAINERS_giulia := Genoxci
+AXION_OFFICIAL_MAINTAINERS_macan := Paul
 AXION_OFFICIAL_MAINTAINERS_giuliac := Genoxci
+AXION_OFFICIAL_MAINTAINERS_macanc := Paul
 AXION_OFFICIAL_MAINTAINERS_avicii := Sreeshankar_K
 AXION_OFFICIAL_MAINTAINERS_oscaro := Chethan
 AXION_OFFICIAL_MAINTAINERS_alioth := Yaseakun
 AXION_OFFICIAL_MAINTAINERS_munch := SENX|センクス
-AXION_OFFICIAL_MAINTAINERS_marble := PabloEscobar
 AXION_OFFICIAL_MAINTAINERS_peridot := zenin1504
 AXION_OFFICIAL_MAINTAINERS_onyx := Zarathos_Ghost_Rider
 AXION_OFFICIAL_MAINTAINERS_miatoll := RiteshSahany
 AXION_OFFICIAL_MAINTAINERS_surya := Debayan_Kar
+AXION_OFFICIAL_MAINTAINERS_xaga := Jefino9488
 AXION_OFFICIAL_MAINTAINERS_duchamp := Sai_Krishna
 AXION_OFFICIAL_MAINTAINERS_rodin := SENX|センクス
 AXION_OFFICIAL_MAINTAINERS_r5x := Amrito_Karmokar
@@ -111,7 +115,6 @@ AXION_OFFICIAL_MAINTAINERS_spartan := Bijoy
 AXION_OFFICIAL_MAINTAINERS_haydn := Lucifer
 AXION_OFFICIAL_MAINTAINERS_lancelot := doissM
 AXION_OFFICIAL_MAINTAINERS_raphael := Muhammad_Al-Arabi
-AXION_OFFICIAL_MAINTAINERS_xaga := Jefino9488
 AXION_OFFICIAL_MAINTAINERS_lavender := Amrito_Karmokar
 AXION_OFFICIAL_MAINTAINERS_violet := Joker-V2
 AXION_OFFICIAL_MAINTAINERS_begonia := Sai_Krishna
@@ -125,4 +128,3 @@ AXION_OFFICIAL_MAINTAINERS_a52sxq := Genoxci
 AXION_OFFICIAL_MAINTAINERS_LG8n := Shirayuki39
 AXION_OFFICIAL_MAINTAINERS_LH7n := Shirayuki39
 AXION_OFFICIAL_MAINTAINERS_S666LN := KimelaZPrjkt.
-AXION_OFFICIAL_MAINTAINERS_X01BD := Debayan_Kar
