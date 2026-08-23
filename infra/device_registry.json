@@ -227,9 +227,14 @@
       "github_username": "Kill3rEz"
     },
     {
-      "id": "n0escape_exe",
+      "id": "Viaan",
       "name": "Viaan",
       "github_username": "n0escape-exe"
+    },
+    {
+      "id": "🔻neural0x🔻",
+      "name": "M.Nabeel",
+      "github_username": "neural0x"
     }
   ],
   "devices": [
@@ -420,7 +425,7 @@
       "codename": "mumba",
       "name": "Motorola G57 Power",
       "maintainers": [
-        "n0escape_exe"
+        "Viaan"
       ],
       "support_group": "https://t.me/noescape_aosp",
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g57-power-.jpg"
@@ -854,6 +859,15 @@
       "status": "inactive",
       "support_group": "https://t.me/+d9Y_N7yuDpxkMmE1",
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11t-pro.jpg"
+    },
+    {
+      "codename": "fuxi",
+      "name": "Xiaomi 13",
+      "maintainers": [
+        "🔻neural0x🔻"
+      ],
+      "support_group": "https://t.me/xiaomi13roms",
+      "image_url": "https://i.imgur.com/ikrkK8y.png"
     },
     {
       "codename": "nabu",

@@ -390,11 +390,19 @@
       ]
     },
     {
-      "id": "n0escape_exe",
+      "id": "Viaan",
       "name": "Viaan",
       "github_username": "n0escape-exe",
       "devices": [
         "mumba"
+      ]
+    },
+    {
+      "id": "🔻neural0x🔻",
+      "name": "M.Nabeel",
+      "github_username": "neural0x",
+      "devices": [
+        "fuxi"
       ]
     }
   ]
