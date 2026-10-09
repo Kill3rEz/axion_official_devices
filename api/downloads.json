@@ -404,7 +404,7 @@
       "codename": "mumba",
       "name": "Motorola G57 Power",
       "brand": "motorola",
-      "status": "active",
+      "status": "inactive",
       "maintainer_ids": [
         "Viaan"
       ],
@@ -1365,6 +1365,27 @@
       },
       "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/rubyx.txt",
       "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/rubyx.md"
+    },
+    {
+      "codename": "garnet",
+      "name": "Redmi Note 13 Pro 5G / Poco X6 5G",
+      "brand": "xiaomi",
+      "status": "active",
+      "maintainer_ids": [
+        "ZetyaWyn"
+      ],
+      "support_group": "https://t.me/Garnet_Axion_Support",
+      "images": {
+        "banner": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/garnet.webp",
+        "banner_lower": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/Banners/devices/garnet.webp",
+        "fallback": "https://wiki.lineageos.org/images/devices/garnet.png"
+      },
+      "ota": {
+        "gms": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/GMS/garnet.json",
+        "vanilla": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/VANILLA/garnet.json"
+      },
+      "changelog": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/CHANGELOG/garnet.txt",
+      "guide": "https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/Wiki/garnet.md"
     },
     {
       "codename": "tanzanite",
